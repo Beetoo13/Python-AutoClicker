@@ -1,10 +1,8 @@
 import os
 import time
 import pyautogui
-import time
 
 # Variables
-clicksCounter = 1
 second = 0
 minute = 0
 hours = 0
@@ -16,8 +14,6 @@ while (True):
 
     # Right click the mouse.
     pyautogui.rightClick()
-
-    clicksCounter = clicksCounter + 1
 
     print("Simple Python Stopwatch Created By Beto...")
     print('\n\n')

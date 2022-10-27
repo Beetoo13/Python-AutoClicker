@@ -8,7 +8,7 @@ minute = 0
 hours = 0
 
 # Get the XY position of the mouse.
-currentMouseX, currentMouseY = pyautogui.position()
+current_mouse_x, current_mouse_y = pyautogui.position()
 
 while (True):
 

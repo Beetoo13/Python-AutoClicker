@@ -15,7 +15,7 @@ while (True):
     # Right click the mouse.
     pyautogui.rightClick()
 
-    print("Simple Python Stopwatch Created By Beto...")
+    print("Simple Python Autoclicker Created By Beto...")
     print('\n\n')
     print('\t\t\t\t---------- Time elapsed ----------')
     print('\t\t\t\t  %d hours: %d minutes: %d seconds' %
